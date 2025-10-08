@@ -7,5 +7,4 @@
 - Interestellar -> https://www.imdb.com/es-es/title/tt0816692/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_inte
 - Cars -> https://www.imdb.com/es-es/title/tt0317219/?ref_=fn_all_ttl_1
 ---
-![Kung Fu Panda](https://upload.wikimedia.org/wikipedia/commons/7/73/Po_%28Kung_Fu_Panda_3%29.png)
 ![Kung Fu Panda](kungfupanda.jpeg)
